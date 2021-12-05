@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. swimming 🏊
+2. coding 🖥️
+3. sports 
+   1. football ⚽
+   2. badminton 🏸
